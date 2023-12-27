@@ -6,7 +6,7 @@ Hi there, I'm Rui Pedro Silva <img src="https://raw.githubusercontent.com/Martin
 🎓 University of Porto, Portugal <br>
 📔 Check my projects [here](https://github.com/Rui-Pedro-Borges-Silva/projects) <br>
 
-<a href="www.linkedin.com/in/rui-pedro-borges-silva">
+<a href="www.linkedin.com/in/rui-pedro-borges-silva/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
